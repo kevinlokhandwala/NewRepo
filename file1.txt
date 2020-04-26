@@ -1,4 +1,2 @@
 Hello from Kevin, Hello
 Hello from the other side
-Hello from the Master
-Hello from the branch1
